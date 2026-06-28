@@ -69,7 +69,7 @@ ai_algorithm_assistant/
 进入项目目录：
 
 ```powershell
-cd C:\Users\lyrui\Desktop\xiaobaiagent\ai_algorithm_assistant
+cd ai_algorithm_assistant
 ```
 
 安装依赖：
